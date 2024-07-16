@@ -1,0 +1,10 @@
+.details {
+  color: whitesmoke;
+}
+
+p.details {
+  margin: 0 auto;
+  max-width: 60%;
+  font-size: 1.2em;
+  line-height: 1.5em;
+}
