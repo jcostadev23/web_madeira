@@ -1,0 +1,28 @@
+.footer-sub-container {
+  display: flex;
+  padding: 20px;
+  justify-content: space-between;
+}
+
+.footer-item {
+  display: flex;
+  margin: 0 20px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+@media (max-width: 480px) {
+  .footer-sub-container {
+    gap: 20px;
+    flex-direction: column;
+  }
+}
