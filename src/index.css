@@ -77,7 +77,11 @@ footer {
   position: sticky;
   bottom: 0;
   width: 100%;
-  background-color: rgb(66, 65, 65);
+  background-color: rgb(83, 83, 83);
+}
+
+strong {
+  font-weight: 600;
 }
 
 @media (prefers-color-scheme: light) {
