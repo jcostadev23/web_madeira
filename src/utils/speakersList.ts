@@ -1,0 +1,58 @@
+export const speakersList = [
+  {
+    name: 'Aurelio',
+    workArea: 'Front End Developer',
+    workPlace: 'AutoAncle',
+    img: '/assets/aurelio.jpg',
+    talk: 'AWS',
+  },
+  {
+    name: 'Rodolfo',
+    workArea: 'Front End Developer',
+    workPlace: 'Blip',
+    img: '/assets/rodolfo.jpg',
+    talk: 'Performance',
+  },
+  {
+    name: 'Cristian Gonçalves',
+    workArea: 'Software engineer',
+    workPlace: 'Asseco PST',
+    img: '/assets/cristian.png',
+    talk: 'Security',
+  },
+  {
+    name: 'André Gonçalves',
+    workArea: 'Web Dev Consultant',
+    workPlace: 'Freelancer',
+    img: '/assets/andre.jpg',
+    talk: 'Best projects',
+  },
+  {
+    name: 'Aurelio',
+    workArea: 'Front End Developer',
+    workPlace: 'AutoAncle',
+    img: '/assets/aurelio.jpg',
+    talk: 'AWS',
+  },
+  {
+    name: 'Rodolfo',
+    workArea: 'Front End Developer',
+    workPlace: 'Blip',
+    img: '/assets/rodolfo.jpg',
+    talk: 'Performance',
+  },
+  {
+    name: 'Cristian Gonçalves',
+    workArea: 'Software engineer',
+    workPlace: 'Asseco PST',
+    img: '/assets/cristian.png',
+    talk: 'Security',
+  },
+  {
+    name: 'André Gonçalves',
+    workArea: 'Web Dev Consultant',
+    workPlace: 'Freelancer',
+    img: '/assets/andre.jpg',
+    talk: 'Best projects',
+  },
+];

@@ -1,0 +1,19 @@
+.container {
+  padding: 30px;
+  background-color: whitesmoke;
+}
+
+.container h2 {
+  text-align: justify;
+  font-weight: 500;
+  color: rgb(86, 147, 157);
+}
+
+.card {
+  display: grid;
+  gap: 24px;
+  padding: 30px;
+  margin: 40px auto;
+  align-items: center;
+  grid-template-columns: 1fr 1fr 1fr;
+}
